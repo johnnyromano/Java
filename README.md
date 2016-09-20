@@ -1,4 +1,4 @@
-# Java Applications | School and Personal Projects
+# Java _School and Personal Projects
 
 _Burger Barn_ | Point of sale system for a fast food restaurant.
 
