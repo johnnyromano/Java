@@ -1,10 +1,11 @@
 # Java
 Java Applications | School and Personal Projects
-Burger Barn
+
+_Burger Barn_
 Point of sale system for a fast food restaurant.
 
-Hangman
+_Hangman_
 Word of phrase guessing game.
 
-Messages
+_Messages_
 System log reader experimenting with object streams.
