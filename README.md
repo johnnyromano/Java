@@ -1,2 +1,2 @@
 # Java
-Java Applications | Team Treehouse Projects
+Java Applications | School and Personal Projects
