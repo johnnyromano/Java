@@ -2,7 +2,7 @@ package tthHangman;
 
 public class Hangman {
 	public static void main(String[] args) {
-        // Enter amazing code here:
+        // Enter amazing code here: amazing code
       if (args.length == 0) {
         System.out.println("Please enter a word..");
         System.exit(0);
