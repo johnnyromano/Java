@@ -1,4 +1,4 @@
-# Personal Projects in Java
+# Personal Projects in Java from my undergrad
 
 _Burger Barn_ | Point of sale system for a fast food restaurant.
 
